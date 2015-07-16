@@ -1,0 +1,6 @@
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraSoNguyen\KiemTraSoNguyen\bin\Debug\KiemTraSoNguyen.exe.config
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraSoNguyen\KiemTraSoNguyen\bin\Debug\KiemTraSoNguyen.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraSoNguyen\KiemTraSoNguyen\bin\Debug\KiemTraSoNguyen.pdb
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraSoNguyen\KiemTraSoNguyen\obj\Debug\KiemTraSoNguyen.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraSoNguyen\KiemTraSoNguyen\obj\Debug\KiemTraSoNguyen.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraSoNguyen\KiemTraSoNguyen\obj\Debug\KiemTraSoNguyen.pdb

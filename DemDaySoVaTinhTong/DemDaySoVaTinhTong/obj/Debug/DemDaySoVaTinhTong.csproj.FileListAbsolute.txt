@@ -1,0 +1,6 @@
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DemDaySoVaTinhTong\DemDaySoVaTinhTong\bin\Debug\DemDaySoVaTinhTong.exe.config
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DemDaySoVaTinhTong\DemDaySoVaTinhTong\bin\Debug\DemDaySoVaTinhTong.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DemDaySoVaTinhTong\DemDaySoVaTinhTong\bin\Debug\DemDaySoVaTinhTong.pdb
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DemDaySoVaTinhTong\DemDaySoVaTinhTong\obj\Debug\DemDaySoVaTinhTong.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DemDaySoVaTinhTong\DemDaySoVaTinhTong\obj\Debug\DemDaySoVaTinhTong.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DemDaySoVaTinhTong\DemDaySoVaTinhTong\obj\Debug\DemDaySoVaTinhTong.pdb

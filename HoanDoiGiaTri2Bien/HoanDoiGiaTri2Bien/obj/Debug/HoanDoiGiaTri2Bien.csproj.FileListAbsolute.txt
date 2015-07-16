@@ -1,0 +1,6 @@
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\HoanDoiGiaTri2Bien\HoanDoiGiaTri2Bien\bin\Debug\HoanDoiGiaTri2Bien.exe.config
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\HoanDoiGiaTri2Bien\HoanDoiGiaTri2Bien\bin\Debug\HoanDoiGiaTri2Bien.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\HoanDoiGiaTri2Bien\HoanDoiGiaTri2Bien\bin\Debug\HoanDoiGiaTri2Bien.pdb
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\HoanDoiGiaTri2Bien\HoanDoiGiaTri2Bien\obj\Debug\HoanDoiGiaTri2Bien.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\HoanDoiGiaTri2Bien\HoanDoiGiaTri2Bien\obj\Debug\HoanDoiGiaTri2Bien.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\HoanDoiGiaTri2Bien\HoanDoiGiaTri2Bien\obj\Debug\HoanDoiGiaTri2Bien.pdb

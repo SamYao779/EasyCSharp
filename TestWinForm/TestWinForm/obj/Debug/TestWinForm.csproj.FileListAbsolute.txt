@@ -1,0 +1,9 @@
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\bin\Debug\TestWinForm.exe.config
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\bin\Debug\TestWinForm.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\bin\Debug\TestWinForm.pdb
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\obj\Debug\TestWinForm.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\obj\Debug\TestWinForm.FormDangNhap.resources
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\obj\Debug\TestWinForm.Properties.Resources.resources
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\obj\Debug\TestWinForm.csproj.GenerateResource.Cache
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\obj\Debug\TestWinForm.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\TestWinForm\TestWinForm\obj\Debug\TestWinForm.pdb

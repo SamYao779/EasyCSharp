@@ -1,0 +1,6 @@
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraKieuDuLieuNhap\KiemTraKieuDuLieuNhap\bin\Debug\KiemTraKieuDuLieuNhap.exe.config
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraKieuDuLieuNhap\KiemTraKieuDuLieuNhap\bin\Debug\KiemTraKieuDuLieuNhap.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraKieuDuLieuNhap\KiemTraKieuDuLieuNhap\bin\Debug\KiemTraKieuDuLieuNhap.pdb
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraKieuDuLieuNhap\KiemTraKieuDuLieuNhap\obj\Debug\KiemTraKieuDuLieuNhap.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraKieuDuLieuNhap\KiemTraKieuDuLieuNhap\obj\Debug\KiemTraKieuDuLieuNhap.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\KiemTraKieuDuLieuNhap\KiemTraKieuDuLieuNhap\obj\Debug\KiemTraKieuDuLieuNhap.pdb

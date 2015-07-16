@@ -1,0 +1,6 @@
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\LoaiBoKyTu\LoaiBoKyTu\bin\Debug\LoaiBoKyTu.exe.config
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\LoaiBoKyTu\LoaiBoKyTu\bin\Debug\LoaiBoKyTu.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\LoaiBoKyTu\LoaiBoKyTu\bin\Debug\LoaiBoKyTu.pdb
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\LoaiBoKyTu\LoaiBoKyTu\obj\Debug\LoaiBoKyTu.csprojResolveAssemblyReference.cache
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\LoaiBoKyTu\LoaiBoKyTu\obj\Debug\LoaiBoKyTu.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\LoaiBoKyTu\LoaiBoKyTu\obj\Debug\LoaiBoKyTu.pdb

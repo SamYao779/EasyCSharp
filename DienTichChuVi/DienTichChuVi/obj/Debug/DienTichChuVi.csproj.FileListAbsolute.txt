@@ -1,0 +1,5 @@
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DienTichChuVi\DienTichChuVi\bin\Debug\DienTichChuVi.exe.config
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DienTichChuVi\DienTichChuVi\bin\Debug\DienTichChuVi.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DienTichChuVi\DienTichChuVi\bin\Debug\DienTichChuVi.pdb
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DienTichChuVi\DienTichChuVi\obj\Debug\DienTichChuVi.exe
+D:\Lap Trinh\ASP.NET MVC\CacDemoC#\DienTichChuVi\DienTichChuVi\obj\Debug\DienTichChuVi.pdb
